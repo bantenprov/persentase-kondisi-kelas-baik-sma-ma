@@ -1,0 +1,33 @@
+{
+    "name": "bantenprov/persentase-kondisi-kelas-baik-sma-ma",
+    "description": "Persentase Kondisi Kelas Baik (KKB) SMA/MA Menurut Kabupaten/Kota    ",
+    "type": "library",
+    "homepage": "https://github.com/bantenprov/persentase-kondisi-kelas-baik-sma-ma",
+    "authors": [
+        {
+        "name": "bantenprov",
+        "email": "developer.bantenprov@gmail.com",
+        "role": "developer"
+    }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/persentase-kondisi-kelas-baik-sma-ma,",
+      "issues": "https://github.com/bantenprov/persentase-kondisi-kelas-baik-sma-ma/issues",
+      "wiki": "https://github.com/bantenprov/persentase-kondisi-kelas-baik-sma-ma/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.4.*",
+        "laravel/tinker": "~1.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\PerKKBSmaMa\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
