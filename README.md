@@ -1,10 +1,11 @@
 # persentase-kondisi-kelas-baik-sma-ma
 
+
 [![Join the chat at https://gitter.im/persentase-kondisi-kelas-baik-sma-ma/Lobby](https://badges.gitter.im/persentase-kondisi-kelas-baik-sma-ma/Lobby.svg)](https://gitter.im/persentase-kondisi-kelas-baik-sma-ma/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/persentase-kondisi-kelas-baik-sma-ma/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/persentase-kondisi-kelas-baik-sma-ma/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/persentase-kondisi-kelas-baik-sma-ma/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/persentase-kondisi-kelas-baik-sma-ma/build-status/master)
 
-Persentase Kondisi Kelas Baik (KKB);SMA/MA Menurut Kabupaten/Kota
+Persentase Kondisi Kelas Baik (KKB) SMA/MA Menurut Kabupaten/Kota
 
 ## install via composer
 
@@ -171,4 +172,3 @@ Vue.component('persentase-kondisi-kelas-baik-sma-ma-pie-02', PerKKBSmaMaPie02);
 import PerKKBSmaMaPie03 from './components/views/bantenprov/persentase-kondisi-kelas-baik-sma-ma/PerKKBSmaMaPie03.vue';
 Vue.component('persentase-kondisi-kelas-baik-sma-ma-pie-03', PerKKBSmaMaPie03);
 ```
-
