@@ -1,100 +1,567 @@
 [
   {
     "xAxis": {
-      "category": "Angkatan Kerja",
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          920,
+          537,
+          542
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          729,
+          383,
+          383
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          79.24,
+          71.32,
+          70.66
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          901,
+          835,
+          864
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          572,
+          596,
+          452
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          63.49,
+          71.38,
+          52.31
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1235,
+          1235,
+          1295
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1093,
+          1093,
+          1173
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          88.5,
+          88.5,
+          90.58
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1006,
+          938,
+          946
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          516,
+          819,
+          383
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          51.29,
+          87.31,
+          40.49
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          930,
+          854,
+          864
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          888,
+          784,
+          784
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          95.48,
+          91.8,
+          90.74
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          361,
+          359,
+          390
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          309,
+          320,
+          314
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          85.6,
+          89.14,
+          80.51
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          345,
+          820,
+          827
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          280,
+          426,
+          426
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          81.16,
+          51.95,
+          51.51
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          893,
+          813,
+          888
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          869,
+          741,
+          741
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "KKB SMA/MA ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.31,
+          91.14,
+          83.45
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Kelas SMA/MA Yang Dimiliki  ",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2012",
         "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          5.18,
-          5.18,
-          5.34,
-          5.33,
-          5.59
+          6591,
+          6391,
+          6616
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Angkatan Kerja",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          119.85,
-          120.17,
-          121.87,
-          122.38,
-          125.44         
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Rasio Ketersediaan Sekolah SMP-MTs",
+      "category": "Jumlah Kelas SMA/MA Dalam Kondisi Baik ",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2012",
         "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          4.66,
-          4.69,
-          4.86,
-          4.83,
-          5.09          
+          5256,
+          5162,
+          4656
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Rasio Ketersediaan Sekolah SMP-MTs",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "KKB SMA/MA ",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2012",
         "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          112.5,
-          112.76,
-          114.63,
-          114.82,
-          118.41         
+          79.75,
+          80.77,
+          70.37
         ]
       }
     ]
